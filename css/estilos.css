@@ -1,0 +1,38 @@
+body{
+    background: rgba(235, 148, 50, 0.849);
+     
+   font-family: arial;
+     
+   }
+   
+   .menu{background-color: white;
+   
+   }
+   
+   .menu ul {
+     display: flex;
+   justify-content: space-around;
+   }
+   
+   .menu li {
+     list-style: none;
+   }
+   
+   a {
+     color: teal;  
+     text-decoration: none;
+   }
+   
+   a:haver {
+     text-decoration: underline;
+   }
+   
+   .site-title {
+     text-align: center; 
+     color: whitsmoke;
+   }
+   
+   .site-subtitle {
+     font-style: italic; 
+     text-align: center;
+   }
